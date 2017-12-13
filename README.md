@@ -239,7 +239,7 @@
         spValue, context.getResources().getDisplayMetrics());
     }
 }</pre><br>
-<br>
+<br><br>
 </p>
    
 </div>
